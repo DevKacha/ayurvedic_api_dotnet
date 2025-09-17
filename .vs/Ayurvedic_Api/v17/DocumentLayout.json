@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\Ayurvedic_Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC4D80B5-4409-40FB-B57B-940835C3A24E}|Ayurvedic_Api\\Ayurvedic_Api.csproj|c:\\users\\hp\\source\\repos\\ayurvedic_api\\ayurvedic_api\\controllers\\remedies_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC4D80B5-4409-40FB-B57B-940835C3A24E}|Ayurvedic_Api\\Ayurvedic_Api.csproj|solutionrelative:ayurvedic_api\\controllers\\remedies_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC4D80B5-4409-40FB-B57B-940835C3A24E}|Ayurvedic_Api\\Ayurvedic_Api.csproj|c:\\users\\hp\\source\\repos\\ayurvedic_api\\ayurvedic_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FC4D80B5-4409-40FB-B57B-940835C3A24E}|Ayurvedic_Api\\Ayurvedic_Api.csproj|solutionrelative:ayurvedic_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC4D80B5-4409-40FB-B57B-940835C3A24E}|Ayurvedic_Api\\Ayurvedic_Api.csproj|c:\\users\\hp\\source\\repos\\ayurvedic_api\\ayurvedic_api\\models\\remedy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC4D80B5-4409-40FB-B57B-940835C3A24E}|Ayurvedic_Api\\Ayurvedic_Api.csproj|solutionrelative:ayurvedic_api\\models\\remedy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Ayurvedic_Api\\Ayurvedic_Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Ayurvedic_Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Ayurvedic_Api\\Ayurvedic_Api\\appsettings.json",
+              "RelativeToolTip": "Ayurvedic_Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-16T17:01:11.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "remedies_Controller.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Ayurvedic_Api\\Ayurvedic_Api\\Controllers\\remedies_Controller.cs",
+              "RelativeDocumentMoniker": "Ayurvedic_Api\\Controllers\\remedies_Controller.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Ayurvedic_Api\\Ayurvedic_Api\\Controllers\\remedies_Controller.cs",
+              "RelativeToolTip": "Ayurvedic_Api\\Controllers\\remedies_Controller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T16:56:17.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Remedy.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Ayurvedic_Api\\Ayurvedic_Api\\Models\\Remedy.cs",
+              "RelativeDocumentMoniker": "Ayurvedic_Api\\Models\\Remedy.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Ayurvedic_Api\\Ayurvedic_Api\\Models\\Remedy.cs",
+              "RelativeToolTip": "Ayurvedic_Api\\Models\\Remedy.cs",
+              "ViewState": "AgIAAAEAAABMZmZmZqYowBMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T17:41:25.748Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
